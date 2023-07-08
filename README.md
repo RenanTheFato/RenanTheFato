@@ -35,7 +35,7 @@ About Me </strong><br><br>
 <h2>
 <strong>How To Contact Me</strong><br><br>
 <a href='https://github.com/RenanTheFato'><img style='background-color: #7e7e7e; border-radius: 10px' height='70px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-<a href='https;//instagram.com/renan_916?igshid=MzNlNGNkZWQ4Mg=='><img height='70px' src='instagram.png'></a>
+<a href='https://instagram.com/renan_916?igshid=MzNlNGNkZWQ4Mg=='><img height='70px' src='instagram.png'></a>
 <a href='https://twitter.com/RenanzinGoat'><img height='70px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 </h2>
 <br>
