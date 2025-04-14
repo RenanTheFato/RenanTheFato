@@ -1,6 +1,4 @@
 <img src='bg-crop.gif' width="100%" height="100%">
-<br><br>
-
 <div align='center'>
   <h1>Hello, I am RenanTheFato
   <img align='center' height="90px" src="thefato.png">
