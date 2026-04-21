@@ -128,8 +128,9 @@ Whether it's designing clean RESTful routes or styling interactive UI components
 <h2> 📫 Get in Touch </h2>
 
 <div>
-<a href="mailto:renan.santana007@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" /></a>
+<a href="mailto:renan.santana.developer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" /></a>
 <a href="https://github.com/RenanTheFato" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/renan-santanna/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&&logoColor=white" /> </a>
 <a href="https://open.spotify.com/user/fr2544b4039m69yqzpmhol0ut?si=f8a3b2441d6a47f6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
 </div>
